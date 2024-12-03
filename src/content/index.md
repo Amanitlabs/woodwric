@@ -9,7 +9,7 @@ hero:
     school, beginning a new chapter in your life, or simply looking for a stable
     career, one thing rings true: the wood industry has a place for you."
 cards:
-  - title: Why Wood??
+  - title: Why Wood?
     image: /media/uploads/dan-feature-3-cue-careers.jpg
     description: If you think woodworking is just for DIY hobbyists or that the wood
       industry has seen its best days, think again.
