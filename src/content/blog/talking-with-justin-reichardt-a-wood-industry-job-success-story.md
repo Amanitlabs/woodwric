@@ -1,9 +1,10 @@
 ---
 layout: article.njk
 date: 2021-03-30
-image: /media/uploads/WIR_201402_danarticle_2_hero.png
+image: ""
+heroPosition: bottom
 collection: career-switcher-audience
-thumbnail: /media/uploads/thumb-WIR_201402_danarticle_2_hero.png
+thumbnail: /media/uploads/dan-feature-3-cue-careers.jpg
 shortTitle: Success After Military? You Bet!
 excerpt: Former Marine Justin Reichardt is writing a new success story in the
   wood industry. Your story could be next.
