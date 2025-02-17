@@ -1,17 +1,19 @@
 ---
 layout: article.njk
 date: 2021-01-11
-image: /media/uploads/military-soldier2.jpg
-thumbnail: /media/uploads/danarticle2-thumb2.jpg
+image: /media/uploads/vid-home.png-2-.jpg
+heroPosition: top
 collection: career-switcher-audience
+thumbnail: /media/uploads/danarticle2-thumb2.jpg
 quizId: 34tg3sx
 postCta:
   headline: Take the Next Step Toward a Career in the Wood Industry
   url: /get-started
   label: Get Started
-title: "Civilian Jobs in the Wood Industry: Where Military Vets Build a Future"
 shortTitle: A Smooth Transition for Service Members
-excerpt: Did you know that your military service experience and skills can open real doors into a career in the wood industry?
+excerpt: Did you know that your military service experience and skills can open
+  real doors into a career in the wood industry?
+title: "Civilian Jobs in the Wood Industry: Where Military Vets Build a Future"
 seo:
   description: It’s time for a civilian career that values the skills that
     military vets bring to the table. Here’s how your skills translate to
