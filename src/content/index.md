@@ -40,6 +40,6 @@ about:
     perception of manufacturing industry careers and strengthen the wood
     industry workforce.
   image: /media/uploads/img1.jpg
-  url: https://wood-wric.netlify.app/about/
+  url: https://woodwirc.com/about/
 layout: index.njk
 ---
