@@ -1,7 +1,8 @@
 ---
 layout: article.njk
 date: 2021-01-11
-image: /media/uploads/danarticle1.jpg
+image: /media/uploads/img1.jpg
+heroPosition: top
 collection: career-switcher-audience
 relatedArticles:
   - 42ca3284-7402-48e5-dfc5-f479475667c4
