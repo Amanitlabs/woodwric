@@ -1,17 +1,19 @@
 ---
-date: 2021-03-30
 layout: article.njk
-image: /media/uploads/WIR_201402_timarticle_2_hero.jpg
-thumbnail: /media/uploads/thumb-WIR_201402_timarticle_2_hero.jpg
-title: Building Blocks For Your Future in the Wood Industry
+date: 2021-03-30
+image: /media/uploads/about-wood.jpg
+heroPosition: bottom
 collection: teenage-audience
-shortTitle: Your Future? You Got This. 
-excerpt: Trying to communicate your career interest in the wood industry? Here’s your game plan to a sustainable career.
+thumbnail: ""
+quizId: 2aba21a1-afea-4014-a259-b6168e6e9820
+shortTitle: Your Future? You Got This.
+excerpt: Trying to communicate your career interest in the wood industry? Here’s
+  your game plan to a sustainable career.
+title: Building Blocks For Your Future in the Wood Industry
 seo:
   pageTitle: Wood Industry Jobs
   description: How to communicate your future wood industry career plans.
 id: 42ca3284-7402-48e5-dfc5-f479475667c4
-quizId: 2aba21a1-afea-4014-a259-b6168e6e9820
 ---
 If you’re reading this, chances are you have done some research into the [wood industry](https://youwood.com/why-wood/) and think that this innovative career path might be for you. There are many benefits to a career in the trades - and especially the wood industry. With craftsman-style builds and renovations becoming more and more popular, the need for individuals who are able to work with their hands or with technology is on the rise.
 
