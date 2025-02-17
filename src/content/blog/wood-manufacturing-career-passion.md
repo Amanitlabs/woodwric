@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 date: 2021-01-11
-image: /media/uploads/dan-feature-2-get-started.jpg
+image: /media/uploads/get-started-section-3-1-.jpg
 heroPosition: top
 collection: teenage-audience
 thumbnail: /media/uploads/about-wood.jpg
