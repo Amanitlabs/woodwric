@@ -18,7 +18,7 @@ cards:
     image: /media/uploads/img2.jpg
     description: From craftsmen to carpenters and machine operators to CAD
       designers, the wood industry is a sustainable, evolving industry.
-    url: https://wood-wric.netlify.app/careers/
+    url: https://woodwirc.com/careers/
 didYouKnow:
   - title: 16,000+ companies hiring
     description: Over 16,000 U.S. companies are hiring in the wood industry.
