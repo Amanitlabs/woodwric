@@ -13,7 +13,7 @@ cards:
     image: /media/uploads/dan-feature-3-cue-careers.jpg
     description: If you think woodworking is just for DIY hobbyists or that the wood
       industry has seen its best days, think again.
-    url: https://wood-wric.netlify.app/why-wood/
+    url: https://woodwirc.com/why-wood/
   - title: Explore Careers
     image: /media/uploads/img2.jpg
     description: From craftsmen to carpenters and machine operators to CAD
