@@ -1,17 +1,19 @@
 ---
-date: 2021-03-30
 layout: article.njk
-title: "Calling All Vets: 5 Wood Industry Jobs Are Waiting for You"
-image: /media/uploads/WIR_201402_danarticle_1_hero.jpg
-thumbnail: /media/uploads/thumb-WIR_201402_danarticle_1_hero.jpg
+date: 2021-03-30
+image: /media/uploads/dan.png
+heroPosition: top
 collection: career-switcher-audience
+thumbnail: /media/uploads/dan.png
+quizId: c38d3ded-24d1-4103-8dfa-dc1238f39bb9
 shortTitle: Calling all Vets, 5 Jobs, Good Pay
-excerpt: The right job is waiting for you after the military — in the wood industry. Here are five jobs that offer good pay for vet experience.
+excerpt: The right job is waiting for you after the military — in the wood
+  industry. Here are five jobs that offer good pay for vet experience.
+title: "Calling All Vets: 5 Wood Industry Jobs Are Waiting for You"
 seo:
   description: Military vets are on track to civilian careers in wood industry
     jobs that offer good pay for hands-on experience.
   pageTitle: 5 Wood Industry Jobs
-quizId: c38d3ded-24d1-4103-8dfa-dc1238f39bb9
 id: 2857ccfd-f68d-4e77-f266-347744d9847f
 ---
 Just like Uncle Sam, the wood industry wants you. As a military veteran, you have already proven you have the discipline, commitment and resourcefulness needed to succeed in a high-paying wood industry job.
