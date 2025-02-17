@@ -4,7 +4,7 @@ date: 2021-01-11
 image: /media/uploads/danarticle1.jpg
 heroPosition: bottom
 collection: teenage-audience
-thumbnail: /media/uploads/timarticle2-thumb.jpg
+thumbnail: /media/uploads/dan-feature-2-get-started.jpg
 quizId: 34tg3sx
 postCta:
   headline: Take the Next Step Toward a Career in the Wood Industry
