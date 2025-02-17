@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 date: 2025-02-17
-image: /media/uploads/lightcast-blog-thumb.jpg
+image: /media/uploads/2023-map.jpg
 heroPosition: top
 collection: teenage-audience
 thumbnail: /media/uploads/lightcast-blog-thumb.jpg
