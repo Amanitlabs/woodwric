@@ -1,17 +1,19 @@
 ---
 layout: article.njk
 date: 2021-01-11
-image: /media/uploads/timarticle1.jpg
+image: /media/uploads/dan-feature-2-get-started.jpg
+heroPosition: top
 collection: teenage-audience
-thumbnail: /media/uploads/timarticle1-thumb.jpg
+thumbnail: /media/uploads/about-wood.jpg
 quizId: 34tg3sx
 postCta:
   headline: Take the Next Step Toward a Career in the Wood Industry
   url: /get-started
   label: Get Started
-title: Why Wood Manufacturing Is More Than Your High School Shop Class
 shortTitle: From High School Shop Class to High Tech
-excerpt: From craftsman to CAD designers working with new technologies to solve evolving challenges, the wood industry is a growing, vibrant industry.
+excerpt: From craftsman to CAD designers working with new technologies to solve
+  evolving challenges, the wood industry is a growing, vibrant industry.
+title: Why Wood Manufacturing Is More Than Your High School Shop Class
 seo:
   description: From cabinetry to wood flooring, the wood manufacturing industry of
     today is more than your high school shop class.
