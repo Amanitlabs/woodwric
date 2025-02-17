@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 date: 2025-02-17
-image: ""
+image: /media/uploads/dan-feature-2-get-started.jpg
 heroPosition: bottom
 collection: career-switcher-audience
 thumbnail: /media/uploads/dan-feature-3-cue-careers.jpg
