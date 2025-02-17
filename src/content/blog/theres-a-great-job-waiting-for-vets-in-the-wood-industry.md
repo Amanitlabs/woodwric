@@ -1,12 +1,14 @@
 ---
-date: 2021-03-30
 layout: article.njk
-title: "Careers After the Military: There’s a Great Job Waiting for Vets in the Wood Industry"
-image: /media/uploads/hero-221605.jpg
-thumbnail: /media/uploads/thumb-221605.jpg
+date: 2021-03-30
+image: /media/uploads/dan-hero-2.jpg
+heroPosition: bottom
 collection: career-switcher-audience
+thumbnail: /media/uploads/thumb-221605.jpg
 shortTitle: Careers After the Military
 excerpt: There’s a Great Job Waiting for Vets in the Wood Industry.
+title: "Careers After the Military: There’s a Great Job Waiting for Vets in the
+  Wood Industry"
 seo:
   description: Military vets are on track to civilian careers in wood industry
     jobs that offer good pay for hands-on experience.
