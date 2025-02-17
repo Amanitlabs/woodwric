@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 date: 2021-01-11
-image: /media/uploads/2023-map.jpg
+image: /media/uploads/vid-home.png-2-.jpg
 heroPosition: bottom
 collection: teenage-audience
 thumbnail: /media/uploads/dan-feature-2-get-started.jpg
