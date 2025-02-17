@@ -1,9 +1,10 @@
 ---
 layout: article.njk
 date: 2021-03-30
-image: /media/uploads/WIR_201402_timarticle_1_hero.jpg
+image: /media/uploads/card-img-2.jpg
+heroPosition: top
 collection: teenage-audience
-thumbnail: /media/uploads/thumb-WIR_201402_timarticle_1_hero.jpg
+thumbnail: /media/uploads/get-started-section-3.jpg
 shortTitle: Wood Class to Job Success
 excerpt: Don’t let anyone tell you you’re just a teenager. You’ve got the skills
   to succeed in the wood industry. Read Sarah’s story.
