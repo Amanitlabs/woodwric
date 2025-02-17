@@ -1,17 +1,19 @@
 ---
 layout: article.njk
 date: 2021-01-11
-image: /media/uploads/tim-hero-2.jpg
+image: /media/uploads/danarticle1.jpg
+heroPosition: bottom
+collection: teenage-audience
 thumbnail: /media/uploads/timarticle2-thumb.jpg
 quizId: 34tg3sx
-collection: teenage-audience
 postCta:
   headline: Take the Next Step Toward a Career in the Wood Industry
   url: /get-started
   label: Get Started
-title: Finding A Career You Can Be Passionate About in the Wood Industry
 shortTitle: Got Tech Game?
-excerpt: Translate your passions into a career in an industry that is modern, high-tech, and offers creative, challenging opportunities for growth.
+excerpt: Translate your passions into a career in an industry that is modern,
+  high-tech, and offers creative, challenging opportunities for growth.
+title: Finding A Career You Can Be Passionate About in the Wood Industry
 seo:
   description: It is possible to marry what you enjoy with your career choice, and
     the wood industry provides sustainable career options to match your passion.
