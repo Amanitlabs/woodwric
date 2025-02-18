@@ -32,7 +32,7 @@ As wood manufacturing moves into the future, more industry technologies are bein
 
 In addition to the latest design tools, the machinery that is used to produce wood products is complex and advanced. This equipment must be operated by a trained technician to monitor and maintain it. If you have experience or interest in machinery, you may have the aptitude for this rewarding profession. 
 
-![Photo of woodworking a guitar](/media/uploads/wood-guitar.jpg)
+![Photo of woodworking a guitar]()
 
 ### Music In The Making
 
