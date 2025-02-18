@@ -88,7 +88,7 @@ ctaBlocks:
     headline: Got Tech Game?
     copy: Translate your passions into a career in an industry that is modern,
       high-tech, and offers creative, challenging opportunities for growth.
-    url: /blog/wood-industry-find-your-passion
+    url: blog/wood-industry-find-your-passion/
     linkLabel: Read More
     image: /media/uploads/get-started-section-3-1-.jpg
 eventsIntro: One of the best ways to get to know the wood industry is to
