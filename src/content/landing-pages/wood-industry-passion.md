@@ -91,6 +91,12 @@ ctaBlocks:
     url: blog/wood-industry-find-your-passion/
     linkLabel: Read More
     image: /media/uploads/get-started-section-3-1-.jpg
+  - url: https://woodwirc.com/events/
+    headline: Attend Wood Industry Events
+    subhead: One of the best ways to get to know the wood industry is to interact
+      with and learn from the pros who do it every day. See below for upcoming
+      wood industry events, webinars, and more.
+    image: /media/uploads/dan-feature-4-events.jpg
 eventsIntro: One of the best ways to get to know the wood industry is to
   interact with and learn from the pros who do it every day. See below for
   upcoming wood industry events, webinars, and more.
