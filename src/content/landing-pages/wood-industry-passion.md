@@ -12,7 +12,7 @@ video:
     src="https://www.youtube.com/embed/ftLS7Iny5wY?autoplay=1&enablejsapi=1"
     frameborder="0" allow="accelerometer; autoplay; clipboard-write;
     encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  poster: /imgs/vid-tim-lp.png.jpg
+  poster: ""
   caption: There is a path for you to make a career out of something you love.
     From craftsman to CAD designers, the wood industry offers modern, high-tech,
     and creative opportunities to put your passions to work.
