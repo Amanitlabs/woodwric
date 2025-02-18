@@ -9,9 +9,9 @@ jumboSvg: /imgs/tim-lp-jumbo.svg
 jumboSvgAltText: Turn your passion into purpose
 video:
   embed: <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/ftLS7Iny5wY?autoplay=1&enablejsapi=1" frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
-    picture-in-picture" allowfullscreen></iframe>
+    src="https://www.youtube.com/embed/ftLS7Iny5wY?autoplay=1&enablejsapi=1"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+    encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   poster: /imgs/vid-tim-lp.png.jpg
   caption: There is a path for you to make a career out of something you love.
     From craftsman to CAD designers, the wood industry offers modern, high-tech,
@@ -36,13 +36,16 @@ calloutSection:
     url: /why-wood/
 quotes:
   - copy: You start with raw wood and work at it and stepping back in the end and
-        seeing the final piece is the best of all. Not only do you get to show it
-        off but you can be proud to say, I made that.
+      seeing the final piece is the best of all. Not only do you get to show it
+      off but you can be proud to say, I made that.
     img: /media/uploads/sarah-provard.png
     attestant: Sarah Provard
     attestantDetails: Student at Pittsburg State University's AMMT Program
     imageLayout: left
-  - copy: What really motivates me is seeing the finished product and the joy on a customer’s face when they see it. Being a part of the process from the designing to the building to the installing of the finished product is such a good feeling.
+  - copy: What really motivates me is seeing the finished product and the joy on a
+      customer’s face when they see it. Being a part of the process from the
+      designing to the building to the installing of the finished product is
+      such a good feeling.
     img: /media/uploads/logan-l.png
     attestant: Logan Leinbach
     attestantDetails: Drafter/CNC Programmer at Burke Architectural Millwork
@@ -71,8 +74,8 @@ carousel:
     headline: Visit WIRC on Cue Careers
     img: /media/uploads/tim-feature-3-cue-careers.jpg
     button:
-        url: https://www.cuecareer.com/industryassociation/wood-industry/
-        label: Learn More
+      url: https://www.cuecareer.com/industryassociation/wood-industry/
+      label: Learn More
 ctaBlocks:
   - subhead: Article
     headline: From High School Shop Class to High Tech
@@ -80,7 +83,7 @@ ctaBlocks:
       evolving challenges, the wood industry is a growing, vibrant industry.
     url: /blog/wood-manufacturing-career-passion
     linkLabel: Read More
-    image: /media/uploads/timarticle1-thumb.jpg
+    image: /media/uploads/cat-ross.png
   - subhead: Article
     headline: Got Tech Game?
     copy: Translate your passions into a career in an industry that is modern,
