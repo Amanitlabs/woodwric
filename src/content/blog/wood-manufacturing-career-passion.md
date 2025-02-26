@@ -34,7 +34,7 @@ Working in the wood industry also provides for a variety of opportunities to sho
 
 Even throughout 2020’s economic struggles, jobs in the wood industry remained strong. Those working in construction – both new builds and renovations – saw work remain steady as people spent more time investing in their homes. Choosing a focus such as flooring, cabinetry, or wood technology ensures career growth.
 
-![Wood technology](/media/uploads/wood-tech.jpg)
+![Wood technology](/media/uploads/dan-feature-4-events.jpg)
 
 ## Cutting-Edge Technologies 
 
