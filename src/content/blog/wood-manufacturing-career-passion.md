@@ -1,6 +1,6 @@
 ---
 layout: article.njk
-date: 2021-01-11
+date: 2025-02-26
 image: /media/uploads/get-started-section-3-1-.jpg
 heroPosition: top
 collection: teenage-audience
