@@ -1,7 +1,7 @@
 ---
 layout: article.njk
 date: 2025-02-17
-image: /media/uploads/card-img-2.jpg
+image: /media/uploads/dan-feature-4-events.jpg
 heroPosition: top
 collection: teenage-audience
 thumbnail: /media/uploads/get-started-section-3.jpg
