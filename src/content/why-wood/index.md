@@ -8,7 +8,7 @@ description: Wood is vital to the global economy in ways we don't often notice.
   create healthier, safer and more sustainable communities.
 sliders:
   left_slider:
-    heading: What it Realy is
+    heading: What it Really is
     description: The Wood Industry is vibrant and growing, driven by a desire for
       renewable sources and higher quality products. Tools and automation have
       helped make many new careers possible in engineering, manufacturing,
